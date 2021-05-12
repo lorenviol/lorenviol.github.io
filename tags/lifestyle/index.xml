@@ -20,6 +20,7 @@
       <description>rebuilding my own happiness</description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>A Break From Life</title>
       <link>https://lorenviol.github.io/posts/2020/abreakfromlife/</link>
@@ -29,5 +30,7 @@
       <description>Changing everyone&amp;#39;s lives</description>
     </item>
     
+=======
+>>>>>>> 92df3429085687c365c3e473a47164c9b805852d
   </channel>
 </rss>

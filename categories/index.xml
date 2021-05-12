@@ -9,6 +9,25 @@
       <link>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lorenviol.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life Update</title>
+      <link>https://lorenviol.github.io/categories/life-update/</link>
+      <pubDate>Fri, 12 Mar 2021 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/categories/life-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://lorenviol.github.io/categories/news/</link>
+      <pubDate>Thu, 08 Oct 2020 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/categories/news/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

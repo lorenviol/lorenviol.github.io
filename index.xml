@@ -10,24 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HelloWorld</title>
-      <link>https://lorenviol.github.io/posts/helloworld/</link>
-      <pubDate>Wed, 12 May 2021 15:09:45 +0800</pubDate>
+      <title>HappyUnhappy</title>
+      <link>https://lorenviol.github.io/posts/2021/happyunhappy/</link>
+      <pubDate>Fri, 12 Mar 2021 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/helloworld/</guid>
-      <description>Desc Text.</description>
+      <guid>https://lorenviol.github.io/posts/2021/happyunhappy/</guid>
+      <description>rebuilding my own happiness</description>
     </item>
     
     <item>
-      <title>Second Post</title>
-      <link>https://lorenviol.github.io/posts/second-post/</link>
-      <pubDate>Wed, 12 May 2021 15:09:45 +0800</pubDate>
+      <title>Apps Revolution</title>
+      <link>https://lorenviol.github.io/posts/2020/appsrevolution/</link>
+      <pubDate>Thu, 08 Oct 2020 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/second-post/</guid>
-      <description>Desc Text.</description>
+      <guid>https://lorenviol.github.io/posts/2020/appsrevolution/</guid>
+      <description>is the iPhone that a closed OS?</description>
     </item>
+    
+    <item>
+      <title>A Break From Life</title>
+      <link>https://lorenviol.github.io/posts/2020/abreakfromlife/</link>
+      <pubDate>Sun, 12 Apr 2020 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2020/abreakfromlife/</guid>
+      <description>Changing everyone&amp;#39;s lives</description>
+    </item>
+    
     
     
   </channel>

@@ -2,25 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lorenviol.github.io/tags/first/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+    <loc>https://lorenviol.github.io/categories/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
-    <loc>https://lorenviol.github.io/posts/helloworld/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+    <loc>https://lorenviol.github.io/tags/depression/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/happiness/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/posts/2021/happyunhappy/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/categories/life-update/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/lifestyle/</loc>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenviol.github.io/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenviol.github.io/posts/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenviol.github.io/posts/second-post/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenviol.github.io/tags/</loc>
-    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
-    <loc>https://lorenviol.github.io/categories/</loc>
+    <loc>https://lorenviol.github.io/tags/apps/</loc>
+    <lastmod>2020-10-08T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/posts/2020/appsrevolution/</loc>
+    <lastmod>2020-10-08T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/developer/</loc>
+    <lastmod>2020-10-08T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/categories/news/</loc>
+    <lastmod>2020-10-08T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/news/</loc>
+    <lastmod>2020-10-08T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/posts/2020/abreakfromlife/</loc>
+    <lastmod>2020-04-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/covid/</loc>
+    <lastmod>2020-04-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/tags/travel/</loc>
+    <lastmod>2020-04-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/archives/</loc>
   </url><url>
     <loc>https://lorenviol.github.io/search/</loc>
   </url>

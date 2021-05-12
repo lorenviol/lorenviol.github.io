@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lorenviol.github.io/tags/first/</loc>
+    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+  </url><url>
     <loc>https://lorenviol.github.io/posts/helloworld/</loc>
     <lastmod>2021-05-12T15:09:45+08:00</lastmod>
   </url><url>
@@ -11,8 +14,14 @@
     <loc>https://lorenviol.github.io/posts/</loc>
     <lastmod>2021-05-12T15:09:45+08:00</lastmod>
   </url><url>
-    <loc>https://lorenviol.github.io/categories/</loc>
+    <loc>https://lorenviol.github.io/posts/second-post/</loc>
+    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenviol.github.io/tags/</loc>
+    <lastmod>2021-05-12T15:09:45+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenviol.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lorenviol.github.io/search/</loc>
   </url>
 </urlset>

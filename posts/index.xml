@@ -4,6 +4,10 @@
     <title>Posts on LorenzoViolone Blog</title>
     <link>https://lorenviol.github.io/posts/</link>
     <description>Recent content in Posts on LorenzoViolone Blog</description>
+    <image>
+      <url>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 May 2021 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +17,16 @@
       <pubDate>Wed, 12 May 2021 15:09:45 +0800</pubDate>
       
       <guid>https://lorenviol.github.io/posts/helloworld/</guid>
-      <description>My first post!</description>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://lorenviol.github.io/posts/second-post/</link>
+      <pubDate>Wed, 12 May 2021 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/second-post/</guid>
+      <description>Desc Text.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lifestyle on LorenzoViolone Blog</title>
+    <title>lifestyle on lorenzoviolone Blog</title>
     <link>https://lorenviol.github.io/tags/lifestyle/</link>
-    <description>Recent content in lifestyle on LorenzoViolone Blog</description>
+    <description>Recent content in lifestyle on lorenzoviolone Blog</description>
     <image>
       <url>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -27,6 +27,33 @@
       
       <guid>https://lorenviol.github.io/posts/2020/abreakfromlife/</guid>
       <description>Changing everyone&amp;#39;s lives</description>
+    </item>
+    
+    <item>
+      <title>No Posts Equals Best Time</title>
+      <link>https://lorenviol.github.io/posts/2019/nopostsequalsbesttime/</link>
+      <pubDate>Sun, 09 Jun 2019 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2019/nopostsequalsbesttime/</guid>
+      <description>breaking the long distance for the second time</description>
+    </item>
+    
+    <item>
+      <title>A Month with Palangga Ko</title>
+      <link>https://lorenviol.github.io/posts/2018/amonth-withpalanggako/</link>
+      <pubDate>Wed, 12 Dec 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/amonth-withpalanggako/</guid>
+      <description>meeting the love of my life for the first time, in an &amp;#39;anything can happen&amp;#39; adventure</description>
+    </item>
+    
+    <item>
+      <title>31st of August</title>
+      <link>https://lorenviol.github.io/posts/2018/thirtyfirstofaugust/</link>
+      <pubDate>Fri, 31 Aug 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/thirtyfirstofaugust/</guid>
+      <description>living the dream, or maybe not</description>
     </item>
     
   </channel>

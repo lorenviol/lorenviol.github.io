@@ -74,5 +74,41 @@
       <description>my first film development after the digital revolution</description>
     </item>
     
+    <item>
+      <title>Setting A New Habit</title>
+      <link>https://lorenviol.github.io/posts/2018/settinganewhabit/</link>
+      <pubDate>Fri, 08 Jun 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/settinganewhabit/</guid>
+      <description>tired and content</description>
+    </item>
+    
+    <item>
+      <title>Strolling On Cheesecakes</title>
+      <link>https://lorenviol.github.io/posts/2018/strollingoncheesecakes/</link>
+      <pubDate>Tue, 29 May 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/strollingoncheesecakes/</guid>
+      <description>my awesome day trip to Dover!</description>
+    </item>
+    
+    <item>
+      <title>Missing</title>
+      <link>https://lorenviol.github.io/posts/2018/missing/</link>
+      <pubDate>Thu, 10 May 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/missing/</guid>
+      <description>that je ne sais quoi</description>
+    </item>
+    
+    <item>
+      <title>Thank You Emma</title>
+      <link>https://lorenviol.github.io/posts/2018/thankyouemma/</link>
+      <pubDate>Thu, 10 May 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/thankyouemma/</guid>
+      <description>snow in London, snow in London!!!</description>
+    </item>
+    
   </channel>
 </rss>

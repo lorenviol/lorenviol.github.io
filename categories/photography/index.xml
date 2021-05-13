@@ -20,5 +20,14 @@
       <description>my first film development after the digital revolution</description>
     </item>
     
+    <item>
+      <title>Strolling On Cheesecakes</title>
+      <link>https://lorenviol.github.io/posts/2018/strollingoncheesecakes/</link>
+      <pubDate>Tue, 29 May 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/strollingoncheesecakes/</guid>
+      <description>my awesome day trip to Dover!</description>
+    </item>
+    
   </channel>
 </rss>

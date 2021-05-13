@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>film roll on lorenzoviolone Blog</title>
+    <link>https://lorenviol.github.io/tags/film-roll/</link>
+    <description>Recent content in film roll on lorenzoviolone Blog</description>
+    <image>
+      <url>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jun 2018 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/tags/film-roll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Light on Film</title>
+      <link>https://lorenviol.github.io/posts/2018/lightonfilm/</link>
+      <pubDate>Sat, 16 Jun 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenviol.github.io/posts/2018/lightonfilm/</guid>
+      <description>my first film development after the digital revolution</description>
+    </item>
+    
+  </channel>
+</rss>

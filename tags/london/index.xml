@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>london on lorenzoviolone Blog</title>
-    <link>https://lorenviol.github.io/tags/london/</link>
+    <link>http://lorenzoviolone.me/tags/london/</link>
     <description>Recent content in london on lorenzoviolone Blog</description>
     <image>
-      <url>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lorenviol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Aug 2018 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenviol.github.io/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Aug 2018 15:09:45 +0800</lastBuildDate><atom:link href="http://lorenzoviolone.me/tags/london/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>31st of August</title>
-      <link>https://lorenviol.github.io/posts/2018/thirtyfirstofaugust/</link>
+      <link>http://lorenzoviolone.me/posts/2018/thirtyfirstofaugust/</link>
       <pubDate>Fri, 31 Aug 2018 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/2018/thirtyfirstofaugust/</guid>
+      <guid>http://lorenzoviolone.me/posts/2018/thirtyfirstofaugust/</guid>
       <description>living the dream, or maybe not</description>
     </item>
     
     <item>
       <title>Light on Film</title>
-      <link>https://lorenviol.github.io/posts/2018/lightonfilm/</link>
+      <link>http://lorenzoviolone.me/posts/2018/lightonfilm/</link>
       <pubDate>Sat, 16 Jun 2018 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/2018/lightonfilm/</guid>
+      <guid>http://lorenzoviolone.me/posts/2018/lightonfilm/</guid>
       <description>my first film development after the digital revolution</description>
     </item>
     
     <item>
       <title>Setting A New Habit</title>
-      <link>https://lorenviol.github.io/posts/2018/settinganewhabit/</link>
+      <link>http://lorenzoviolone.me/posts/2018/settinganewhabit/</link>
       <pubDate>Fri, 08 Jun 2018 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/2018/settinganewhabit/</guid>
+      <guid>http://lorenzoviolone.me/posts/2018/settinganewhabit/</guid>
       <description>tired and content</description>
     </item>
     
     <item>
       <title>Thank You Emma</title>
-      <link>https://lorenviol.github.io/posts/2018/thankyouemma/</link>
+      <link>http://lorenzoviolone.me/posts/2018/thankyouemma/</link>
       <pubDate>Thu, 10 May 2018 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenviol.github.io/posts/2018/thankyouemma/</guid>
+      <guid>http://lorenzoviolone.me/posts/2018/thankyouemma/</guid>
       <description>snow in London, snow in London!!!</description>
     </item>
     

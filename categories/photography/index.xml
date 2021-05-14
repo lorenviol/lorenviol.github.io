@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography on lorenzoviolone Blog</title>
-    <link>http://lorenzoviolone.me/categories/photography/</link>
+    <link>https://lorenzoviolone.me/categories/photography/</link>
     <description>Recent content in Photography on lorenzoviolone Blog</description>
     <image>
-      <url>http://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jun 2018 15:09:45 +0800</lastBuildDate><atom:link href="http://lorenzoviolone.me/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jun 2018 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Light on Film</title>
-      <link>http://lorenzoviolone.me/posts/2018/lightonfilm/</link>
+      <link>https://lorenzoviolone.me/posts/2018/lightonfilm/</link>
       <pubDate>Sat, 16 Jun 2018 15:09:45 +0800</pubDate>
       
-      <guid>http://lorenzoviolone.me/posts/2018/lightonfilm/</guid>
+      <guid>https://lorenzoviolone.me/posts/2018/lightonfilm/</guid>
       <description>my first film development after the digital revolution</description>
     </item>
     
     <item>
       <title>Strolling On Cheesecakes</title>
-      <link>http://lorenzoviolone.me/posts/2018/strollingoncheesecakes/</link>
+      <link>https://lorenzoviolone.me/posts/2018/strollingoncheesecakes/</link>
       <pubDate>Tue, 29 May 2018 15:09:45 +0800</pubDate>
       
-      <guid>http://lorenzoviolone.me/posts/2018/strollingoncheesecakes/</guid>
+      <guid>https://lorenzoviolone.me/posts/2018/strollingoncheesecakes/</guid>
       <description>my awesome day trip to Dover!</description>
     </item>
     

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://lorenzoviolone.me/sitemap.xml
+Sitemap: https://lorenzoviolone.me/sitemap.xml

@@ -56,5 +56,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Poem</title>
+      <link>https://lorenzoviolone.me/categories/poem/</link>
+      <pubDate>Sun, 25 Feb 2018 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wildlife</title>
+      <link>https://lorenzoviolone.me/categories/wildlife/</link>
+      <pubDate>Tue, 06 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/wildlife/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

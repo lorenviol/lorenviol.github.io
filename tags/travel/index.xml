@@ -56,5 +56,32 @@
       <description>my awesome day trip to Dover!</description>
     </item>
     
+    <item>
+      <title>Our Last Adventure</title>
+      <link>https://lorenzoviolone.me/posts/2017/ourlastadventure/</link>
+      <pubDate>Mon, 12 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/ourlastadventure/</guid>
+      <description>in our beautiful Sardinia island</description>
+    </item>
+    
+    <item>
+      <title>Last Day</title>
+      <link>https://lorenzoviolone.me/posts/2017/lastday/</link>
+      <pubDate>Fri, 09 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/lastday/</guid>
+      <description>in our beautiful Sardinia island</description>
+    </item>
+    
+    <item>
+      <title>Flamingoes</title>
+      <link>https://lorenzoviolone.me/posts/2017/flamingoes/</link>
+      <pubDate>Tue, 06 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/flamingoes/</guid>
+      <description>everyone in my family loves &amp;#39;em</description>
+    </item>
+    
   </channel>
 </rss>

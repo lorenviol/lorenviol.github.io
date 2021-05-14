@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sardinia on lorenzoviolone Blog</title>
+    <link>https://lorenzoviolone.me/tags/sardinia/</link>
+    <description>Recent content in sardinia on lorenzoviolone Blog</description>
+    <image>
+      <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/sardinia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Last Adventure</title>
+      <link>https://lorenzoviolone.me/posts/2017/ourlastadventure/</link>
+      <pubDate>Mon, 12 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/ourlastadventure/</guid>
+      <description>in our beautiful Sardinia island</description>
+    </item>
+    
+    <item>
+      <title>Last Day</title>
+      <link>https://lorenzoviolone.me/posts/2017/lastday/</link>
+      <pubDate>Fri, 09 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/lastday/</guid>
+      <description>in our beautiful Sardinia island</description>
+    </item>
+    
+    <item>
+      <title>Flamingoes</title>
+      <link>https://lorenzoviolone.me/posts/2017/flamingoes/</link>
+      <pubDate>Tue, 06 Jun 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/flamingoes/</guid>
+      <description>everyone in my family loves &amp;#39;em</description>
+    </item>
+    
+  </channel>
+</rss>

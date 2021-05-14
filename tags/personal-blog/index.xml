@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>news on lorenzoviolone Blog</title>
-    <link>https://lorenzoviolone.me/tags/news/</link>
-    <description>Recent content in news on lorenzoviolone Blog</description>
+    <title>personal blog on lorenzoviolone Blog</title>
+    <link>https://lorenzoviolone.me/tags/personal-blog/</link>
+    <description>Recent content in personal blog on lorenzoviolone Blog</description>
     <image>
       <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 15:05:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 15:05:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/personal-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Hugo Website</title>
       <link>https://lorenzoviolone.me/posts/2021/newhugowebsite/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://lorenzoviolone.me/posts/2021/newhugowebsite/</guid>
       <description>this is huge! Or at least to the ones that care about my blog 😉</description>
-    </item>
-    
-    <item>
-      <title>Apps Revolution</title>
-      <link>https://lorenzoviolone.me/posts/2020/appsrevolution/</link>
-      <pubDate>Thu, 08 Oct 2020 15:09:45 +0800</pubDate>
-      
-      <guid>https://lorenzoviolone.me/posts/2020/appsrevolution/</guid>
-      <description>is the iPhone that a closed OS?</description>
     </item>
     
   </channel>

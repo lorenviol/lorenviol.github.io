@@ -29,5 +29,23 @@
       <description>my awesome day trip to Dover!</description>
     </item>
     
+    <item>
+      <title>A New Adventure</title>
+      <link>https://lorenzoviolone.me/posts/2017/anewadventure/</link>
+      <pubDate>Wed, 01 Mar 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/anewadventure/</guid>
+      <description>three new photos every single day</description>
+    </item>
+    
+    <item>
+      <title>Here’s to 2017</title>
+      <link>https://lorenzoviolone.me/posts/2017/hereisto2017/</link>
+      <pubDate>Sat, 14 Jan 2017 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2017/hereisto2017/</guid>
+      <description>three new photos every single day</description>
+    </item>
+    
   </channel>
 </rss>

@@ -83,5 +83,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Food</title>
+      <link>https://lorenzoviolone.me/categories/food/</link>
+      <pubDate>Thu, 24 Mar 2016 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Throwback</title>
+      <link>https://lorenzoviolone.me/categories/throwback/</link>
+      <pubDate>Thu, 10 Mar 2016 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/throwback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Celebration</title>
+      <link>https://lorenzoviolone.me/categories/celebration/</link>
+      <pubDate>Mon, 20 Jul 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/celebration/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

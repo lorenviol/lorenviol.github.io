@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mine on lorenzoviolone Blog</title>
+    <link>https://lorenzoviolone.me/tags/mine/</link>
+    <description>Recent content in mine on lorenzoviolone Blog</description>
+    <image>
+      <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Aug 2015 15:09:45 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/mine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walking In An Abandoned Mine!</title>
+      <link>https://lorenzoviolone.me/posts/2015/walkinginanabandonedmine/</link>
+      <pubDate>Thu, 20 Aug 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2015/walkinginanabandonedmine/</guid>
+      <description>it was certainly a unique experience</description>
+    </item>
+    
+    <item>
+      <title>Capturing Sunrises</title>
+      <link>https://lorenzoviolone.me/posts/2015/capturingsunrises/</link>
+      <pubDate>Wed, 19 Aug 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/posts/2015/capturingsunrises/</guid>
+      <description>an healthy hymn to the day ahead</description>
+    </item>
+    
+  </channel>
+</rss>

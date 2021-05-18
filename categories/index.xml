@@ -119,5 +119,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Contest</title>
+      <link>https://lorenzoviolone.me/categories/contest/</link>
+      <pubDate>Fri, 22 May 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/contest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://lorenzoviolone.me/categories/project/</link>
+      <pubDate>Thu, 14 May 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/categories/project/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

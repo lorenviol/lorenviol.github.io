@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 15:05:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 19:36:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://lorenzoviolone.me/tags/blog/</link>
-      <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/blog/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>gitHub</title>
       <link>https://lorenzoviolone.me/tags/github/</link>
-      <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/github/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>hugo</title>
       <link>https://lorenzoviolone.me/tags/hugo/</link>
-      <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/hugo/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>news</title>
       <link>https://lorenzoviolone.me/tags/news/</link>
-      <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/news/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>personal blog</title>
       <link>https://lorenzoviolone.me/tags/personal-blog/</link>
-      <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/personal-blog/</guid>
       <description></description>
@@ -782,6 +782,78 @@
       <pubDate>Sun, 26 Apr 2015 15:09:45 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>squirrel</title>
+      <link>https://lorenzoviolone.me/tags/squirrel/</link>
+      <pubDate>Thu, 16 Apr 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/squirrel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>throwbackthursday</title>
+      <link>https://lorenzoviolone.me/tags/throwbackthursday/</link>
+      <pubDate>Thu, 16 Apr 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/throwbackthursday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barcelona</title>
+      <link>https://lorenzoviolone.me/tags/barcelona/</link>
+      <pubDate>Thu, 05 Feb 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/barcelona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spain</title>
+      <link>https://lorenzoviolone.me/tags/spain/</link>
+      <pubDate>Thu, 05 Feb 2015 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/spain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>florence</title>
+      <link>https://lorenzoviolone.me/tags/florence/</link>
+      <pubDate>Wed, 31 Dec 2014 15:09:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/florence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amusement park</title>
+      <link>https://lorenzoviolone.me/tags/amusement-park/</link>
+      <pubDate>Wed, 31 Dec 2014 15:08:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/amusement-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>day out</title>
+      <link>https://lorenzoviolone.me/tags/day-out/</link>
+      <pubDate>Wed, 31 Dec 2014 15:08:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/day-out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lyfestyle</title>
+      <link>https://lorenzoviolone.me/tags/lyfestyle/</link>
+      <pubDate>Wed, 31 Dec 2014 15:08:45 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/lyfestyle/</guid>
       <description></description>
     </item>
     

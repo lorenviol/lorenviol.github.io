@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Covid on lorenzoviolone Blog</title>
-    <link>https://lorenzoviolone.me/tags/covid/</link>
-    <description>Recent content in Covid on lorenzoviolone Blog</description>
+    <title>health on lorenzoviolone Blog</title>
+    <link>https://lorenzoviolone.me/tags/health/</link>
+    <description>Recent content in health on lorenzoviolone Blog</description>
     <image>
       <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 19:36:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 19:36:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making A Difference</title>
       <link>https://lorenzoviolone.me/posts/2021/makingadifference/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://lorenzoviolone.me/posts/2021/makingadifference/</guid>
       <description>our first Astrazeneca dose</description>
-    </item>
-    
-    <item>
-      <title>A Break From Life</title>
-      <link>https://lorenzoviolone.me/posts/2020/abreakfromlife/</link>
-      <pubDate>Sun, 12 Apr 2020 15:09:45 +0800</pubDate>
-      
-      <guid>https://lorenzoviolone.me/posts/2020/abreakfromlife/</guid>
-      <description>Changing everyone&amp;#39;s lives</description>
     </item>
     
   </channel>

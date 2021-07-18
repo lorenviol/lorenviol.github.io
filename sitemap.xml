@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lorenzoviolone.me/tags/blog/</loc>
-    <lastmod>2021-05-14T15:05:49+08:00</lastmod>
-  </url><url>
     <loc>https://lorenzoviolone.me/categories/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/covid/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/categories/family/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/health/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/categories/life-update/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/lifestyle/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/posts/2021/makingadifference/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/philippines/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/posts/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/vaccine/</loc>
+    <lastmod>2021-05-28T19:36:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviolone.me/tags/blog/</loc>
     <lastmod>2021-05-14T15:05:49+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/tags/github/</loc>
     <lastmod>2021-05-14T15:05:49+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/tags/hugo/</loc>
-    <lastmod>2021-05-14T15:05:49+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/</loc>
     <lastmod>2021-05-14T15:05:49+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/posts/2021/newhugowebsite/</loc>
@@ -29,12 +59,6 @@
     <loc>https://lorenzoviolone.me/tags/personal-blog/</loc>
     <lastmod>2021-05-14T15:05:49+08:00</lastmod>
   </url><url>
-    <loc>https://lorenzoviolone.me/posts/</loc>
-    <lastmod>2021-05-14T15:05:49+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/tags/</loc>
-    <lastmod>2021-05-14T15:05:49+08:00</lastmod>
-  </url><url>
     <loc>https://lorenzoviolone.me/tags/depression/</loc>
     <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
@@ -42,12 +66,6 @@
     <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/posts/2021/happyunhappy/</loc>
-    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/categories/life-update/</loc>
-    <lastmod>2021-03-12T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/tags/lifestyle/</loc>
     <lastmod>2021-03-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/tags/apps/</loc>
@@ -60,9 +78,6 @@
     <lastmod>2020-10-08T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/posts/2020/abreakfromlife/</loc>
-    <lastmod>2020-04-12T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/tags/covid/</loc>
     <lastmod>2020-04-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/tags/travel/</loc>
@@ -379,9 +394,6 @@
   </url><url>
     <loc>https://lorenzoviolone.me/tags/tanabata/</loc>
     <lastmod>2015-07-20T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviolone.me/categories/family/</loc>
-    <lastmod>2015-07-12T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviolone.me/tags/portrait/</loc>
     <lastmod>2015-07-12T15:09:45+08:00</lastmod>

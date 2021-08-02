@@ -5,25 +5,34 @@
     <link>https://lorenzoviolone.me/tags/</link>
     <description>Recent content in Tags on lorenzoviolone Blog</description>
     <image>
-      <url>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lorenzoviolone.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lorenzoviolone.me/images/avatar.jpg</url>
+      <link>https://lorenzoviolone.me/images/avatar.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 19:36:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Aug 2021 22:14:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Covid</title>
-      <link>https://lorenzoviolone.me/tags/covid/</link>
-      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
+      <title>danger</title>
+      <link>https://lorenzoviolone.me/tags/danger/</link>
+      <pubDate>Mon, 02 Aug 2021 22:14:49 +0800</pubDate>
       
-      <guid>https://lorenzoviolone.me/tags/covid/</guid>
+      <guid>https://lorenzoviolone.me/tags/danger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>experience</title>
+      <link>https://lorenzoviolone.me/tags/experience/</link>
+      <pubDate>Mon, 02 Aug 2021 22:14:49 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
       <link>https://lorenzoviolone.me/tags/health/</link>
-      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
+      <pubDate>Mon, 02 Aug 2021 22:14:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/health/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>lifestyle</title>
       <link>https://lorenzoviolone.me/tags/lifestyle/</link>
-      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
+      <pubDate>Mon, 02 Aug 2021 22:14:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/lifestyle/</guid>
       <description></description>
@@ -41,9 +50,18 @@
     <item>
       <title>philippines</title>
       <link>https://lorenzoviolone.me/tags/philippines/</link>
-      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
+      <pubDate>Mon, 02 Aug 2021 22:14:49 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid</title>
+      <link>https://lorenzoviolone.me/tags/covid/</link>
+      <pubDate>Fri, 28 May 2021 19:36:49 +0800</pubDate>
+      
+      <guid>https://lorenzoviolone.me/tags/covid/</guid>
       <description></description>
     </item>
     
@@ -431,15 +449,6 @@
       <pubDate>Tue, 25 Apr 2017 15:09:45 +0800</pubDate>
       
       <guid>https://lorenzoviolone.me/tags/cambodia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>experience</title>
-      <link>https://lorenzoviolone.me/tags/experience/</link>
-      <pubDate>Tue, 25 Apr 2017 15:09:45 +0800</pubDate>
-      
-      <guid>https://lorenzoviolone.me/tags/experience/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>news on lorenzoviolone Blog</title>
-    <link>https://lorenzoviolone.me/tags/news/</link>
+    <link>https://lorenzoviol.one/tags/news/</link>
     <description>Recent content in news on lorenzoviolone Blog</description>
     <image>
-      <url>https://lorenzoviolone.me/images/avatar.jpg</url>
-      <link>https://lorenzoviolone.me/images/avatar.jpg</link>
+      <url>https://lorenzoviol.one/images/avatar.jpg</url>
+      <link>https://lorenzoviol.one/images/avatar.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 15:05:49 +0800</lastBuildDate><atom:link href="https://lorenzoviolone.me/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 15:05:49 +0800</lastBuildDate><atom:link href="https://lorenzoviol.one/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Hugo Website</title>
-      <link>https://lorenzoviolone.me/posts/2021/newhugowebsite/</link>
+      <link>https://lorenzoviol.one/posts/2021/newhugowebsite/</link>
       <pubDate>Fri, 14 May 2021 15:05:49 +0800</pubDate>
       
-      <guid>https://lorenzoviolone.me/posts/2021/newhugowebsite/</guid>
+      <guid>https://lorenzoviol.one/posts/2021/newhugowebsite/</guid>
       <description>this is huge! Or at least to the ones that care about my blog 😉</description>
     </item>
     
     <item>
       <title>Apps Revolution</title>
-      <link>https://lorenzoviolone.me/posts/2020/appsrevolution/</link>
+      <link>https://lorenzoviol.one/posts/2020/appsrevolution/</link>
       <pubDate>Thu, 08 Oct 2020 15:09:45 +0800</pubDate>
       
-      <guid>https://lorenzoviolone.me/posts/2020/appsrevolution/</guid>
+      <guid>https://lorenzoviol.one/posts/2020/appsrevolution/</guid>
       <description>is the iPhone that a closed OS?</description>
     </item>
     

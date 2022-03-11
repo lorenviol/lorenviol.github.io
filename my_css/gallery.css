@@ -14,7 +14,7 @@
     .photo-item {
         padding: 2px;
         width: 50%;
-
+        display: inline-block;
         @media(max-width:683px) {
             width: 100%;
         }

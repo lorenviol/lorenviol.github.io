@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lorenzoviol.one/categories/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/categories/gallery/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/italy/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/photography/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/posts/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/posts/2022/gallerypost/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/train/</loc>
+    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+  </url><url>
     <loc>https://lorenzoviol.one/posts/2021/29/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/birthday/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
-    <loc>https://lorenzoviol.one/categories/</loc>
-    <lastmod>2021-12-27T20:35:10+01:00</lastmod>
-  </url><url>
     <loc>https://lorenzoviol.one/tags/celebration/</loc>
-    <lastmod>2021-12-27T20:35:10+01:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviol.one/tags/italy/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/lgbt/</loc>
@@ -26,19 +47,10 @@
     <loc>https://lorenzoviol.one/tags/lifestyle/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
-    <loc>https://lorenzoviol.one/</loc>
-    <lastmod>2021-12-27T20:35:10+01:00</lastmod>
-  </url><url>
     <loc>https://lorenzoviol.one/tags/love/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/partner/</loc>
-    <lastmod>2021-12-27T20:35:10+01:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviol.one/posts/</loc>
-    <lastmod>2021-12-27T20:35:10+01:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviol.one/tags/</loc>
     <lastmod>2021-12-27T20:35:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/visa/</loc>
@@ -144,9 +156,6 @@
     <lastmod>2018-06-16T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/categories/photography/</loc>
-    <lastmod>2018-06-16T15:09:45+08:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviol.one/tags/photography/</loc>
     <lastmod>2018-06-16T15:09:45+08:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/exercise/</loc>

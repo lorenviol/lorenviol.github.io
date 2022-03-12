@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lorenzoviol.one/tags/apple-music/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/projects/2022/amcurators/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
     <loc>https://lorenzoviol.one/categories/</loc>
-    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/curators/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/ios/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/categories/projects/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/projects/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/shortcut/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/categories/shortcut/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
+  </url><url>
+    <loc>https://lorenzoviol.one/tags/</loc>
+    <lastmod>2022-03-12T12:14:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/gallery/</loc>
     <lastmod>2022-03-11T09:54:10+01:00</lastmod>
@@ -14,13 +44,7 @@
     <loc>https://lorenzoviol.one/tags/italy/</loc>
     <lastmod>2022-03-11T09:54:10+01:00</lastmod>
   </url><url>
-    <loc>https://lorenzoviol.one/</loc>
-    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
-  </url><url>
     <loc>https://lorenzoviol.one/tags/photography/</loc>
-    <lastmod>2022-03-11T09:54:10+01:00</lastmod>
-  </url><url>
-    <loc>https://lorenzoviol.one/tags/</loc>
     <lastmod>2022-03-11T09:54:10+01:00</lastmod>
   </url><url>
     <loc>https://lorenzoviol.one/tags/train/</loc>

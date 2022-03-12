@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on lorenzoviolone</title>
+    <link>https://lorenzoviol.one/projects/</link>
+    <description>Recent content in Projects on lorenzoviolone</description>
+    <image>
+      <url>https://lorenzoviol.one/images/avatar.jpg</url>
+      <link>https://lorenzoviol.one/images/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Mar 2022 12:14:10 +0100</lastBuildDate><atom:link href="https://lorenzoviol.one/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Music Curators Shortcut</title>
+      <link>https://lorenzoviol.one/projects/2022/amcurators/</link>
+      <pubDate>Sat, 12 Mar 2022 12:14:10 +0100</pubDate>
+      
+      <guid>https://lorenzoviol.one/projects/2022/amcurators/</guid>
+      <description>the best curators whenever you need them</description>
+    </item>
+    
+  </channel>
+</rss>

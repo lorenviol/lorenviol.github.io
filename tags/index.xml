@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 16:00:10 +0000</lastBuildDate><atom:link href="https://lorenzoviol.one/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 17:00:10 +0000</lastBuildDate><atom:link href="https://lorenzoviol.one/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apple</title>
       <link>https://lorenzoviol.one/tags/apple/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/apple/</guid>
       <description></description>
@@ -24,16 +24,25 @@
     <item>
       <title>cork</title>
       <link>https://lorenzoviol.one/tags/cork/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/cork/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>event</title>
+      <link>https://lorenzoviol.one/tags/event/</link>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
+      
+      <guid>https://lorenzoviol.one/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>happiness</title>
       <link>https://lorenzoviol.one/tags/happiness/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/happiness/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>ireland</title>
       <link>https://lorenzoviol.one/tags/ireland/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/ireland/</guid>
       <description></description>
@@ -51,9 +60,36 @@
     <item>
       <title>job</title>
       <link>https://lorenzoviol.one/tags/job/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://lorenzoviol.one/tags/photography/</link>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
+      
+      <guid>https://lorenzoviol.one/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photowalk</title>
+      <link>https://lorenzoviol.one/tags/photowalk/</link>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
+      
+      <guid>https://lorenzoviol.one/tags/photowalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://lorenzoviol.one/tags/work/</link>
+      <pubDate>Fri, 12 Apr 2024 17:00:10 +0000</pubDate>
+      
+      <guid>https://lorenzoviol.one/tags/work/</guid>
       <description></description>
     </item>
     
@@ -72,15 +108,6 @@
       <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
       
       <guid>https://lorenzoviol.one/tags/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://lorenzoviol.one/tags/work/</link>
-      <pubDate>Fri, 12 Apr 2024 16:00:10 +0000</pubDate>
-      
-      <guid>https://lorenzoviol.one/tags/work/</guid>
       <description></description>
     </item>
     
@@ -126,15 +153,6 @@
       <pubDate>Fri, 11 Mar 2022 09:54:10 +0100</pubDate>
       
       <guid>https://lorenzoviol.one/tags/italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photography</title>
-      <link>https://lorenzoviol.one/tags/photography/</link>
-      <pubDate>Fri, 11 Mar 2022 09:54:10 +0100</pubDate>
-      
-      <guid>https://lorenzoviol.one/tags/photography/</guid>
       <description></description>
     </item>
     
@@ -796,15 +814,6 @@
     </item>
     
     <item>
-      <title>event</title>
-      <link>https://lorenzoviol.one/tags/event/</link>
-      <pubDate>Mon, 20 Jul 2015 15:09:45 +0800</pubDate>
-      
-      <guid>https://lorenzoviol.one/tags/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>japanese</title>
       <link>https://lorenzoviol.one/tags/japanese/</link>
       <pubDate>Mon, 20 Jul 2015 15:09:45 +0800</pubDate>
@@ -882,15 +891,6 @@
       <pubDate>Fri, 22 May 2015 15:09:45 +0800</pubDate>
       
       <guid>https://lorenzoviol.one/tags/contest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photowalk</title>
-      <link>https://lorenzoviol.one/tags/photowalk/</link>
-      <pubDate>Fri, 22 May 2015 15:09:45 +0800</pubDate>
-      
-      <guid>https://lorenzoviol.one/tags/photowalk/</guid>
       <description></description>
     </item>
     

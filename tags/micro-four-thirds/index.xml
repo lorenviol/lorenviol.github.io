@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>micro four thirds on lorenzoviolone</title>
+    <link>https://lorenzoviol.one/tags/micro-four-thirds/</link>
+    <description>Recent content in micro four thirds on lorenzoviolone</description>
+    <image>
+      <title>lorenzoviolone</title>
+      <url>https://lorenzoviol.one/images/avatar.jpg</url>
+      <link>https://lorenzoviol.one/images/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2024 10:25:10 +0000</lastBuildDate><atom:link href="https://lorenzoviol.one/tags/micro-four-thirds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I bought a M43 camera in 2024</title>
+      <link>https://lorenzoviol.one/posts/2024/m43camera/</link>
+      <pubDate>Fri, 06 Sep 2024 10:25:10 +0000</pubDate>
+      
+      <guid>https://lorenzoviol.one/posts/2024/m43camera/</guid>
+      <description>is it still worth it?</description>
+    </item>
+    
+  </channel>
+</rss>
